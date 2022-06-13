@@ -1,0 +1,16 @@
+C:\Users\mckid\source\repos\Roberts_CashFlowManager\Roberts_CashFlowManager\bin\Debug\net5.0\Roberts_CashFlowManager.exe
+C:\Users\mckid\source\repos\Roberts_CashFlowManager\Roberts_CashFlowManager\bin\Debug\net5.0\Roberts_CashFlowManager.deps.json
+C:\Users\mckid\source\repos\Roberts_CashFlowManager\Roberts_CashFlowManager\bin\Debug\net5.0\Roberts_CashFlowManager.runtimeconfig.json
+C:\Users\mckid\source\repos\Roberts_CashFlowManager\Roberts_CashFlowManager\bin\Debug\net5.0\Roberts_CashFlowManager.runtimeconfig.dev.json
+C:\Users\mckid\source\repos\Roberts_CashFlowManager\Roberts_CashFlowManager\bin\Debug\net5.0\Roberts_CashFlowManager.dll
+C:\Users\mckid\source\repos\Roberts_CashFlowManager\Roberts_CashFlowManager\bin\Debug\net5.0\Roberts_CashFlowManager.pdb
+C:\Users\mckid\source\repos\Roberts_CashFlowManager\Roberts_CashFlowManager\obj\Debug\net5.0\Roberts_CashFlowManager.csproj.AssemblyReference.cache
+C:\Users\mckid\source\repos\Roberts_CashFlowManager\Roberts_CashFlowManager\obj\Debug\net5.0\Roberts_CashFlowManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mckid\source\repos\Roberts_CashFlowManager\Roberts_CashFlowManager\obj\Debug\net5.0\Roberts_CashFlowManager.AssemblyInfoInputs.cache
+C:\Users\mckid\source\repos\Roberts_CashFlowManager\Roberts_CashFlowManager\obj\Debug\net5.0\Roberts_CashFlowManager.AssemblyInfo.cs
+C:\Users\mckid\source\repos\Roberts_CashFlowManager\Roberts_CashFlowManager\obj\Debug\net5.0\Roberts_CashFlowManager.csproj.CoreCompileInputs.cache
+C:\Users\mckid\source\repos\Roberts_CashFlowManager\Roberts_CashFlowManager\obj\Debug\net5.0\Roberts_CashFlowManager.dll
+C:\Users\mckid\source\repos\Roberts_CashFlowManager\Roberts_CashFlowManager\obj\Debug\net5.0\refint\Roberts_CashFlowManager.dll
+C:\Users\mckid\source\repos\Roberts_CashFlowManager\Roberts_CashFlowManager\obj\Debug\net5.0\Roberts_CashFlowManager.pdb
+C:\Users\mckid\source\repos\Roberts_CashFlowManager\Roberts_CashFlowManager\obj\Debug\net5.0\Roberts_CashFlowManager.genruntimeconfig.cache
+C:\Users\mckid\source\repos\Roberts_CashFlowManager\Roberts_CashFlowManager\obj\Debug\net5.0\ref\Roberts_CashFlowManager.dll

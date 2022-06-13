@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Roberts_CashFlowManager/1.0.0": {
+        "runtime": {
+          "Roberts_CashFlowManager.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Roberts_CashFlowManager/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
