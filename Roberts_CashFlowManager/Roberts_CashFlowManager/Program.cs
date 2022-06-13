@@ -14,7 +14,11 @@
  *            
  *         D: Something is wrong with GitHub....unlike before, it will not accept my changes
  *            I have had to open a new repository and pull the changed files !! :(
- *            this is copy 4742 >:(
+ *            this is copy 4742 >:( AAAAND here we go again!! Imma bout to start insulting someone's 
+ *            mother....
+ *            
+ *          E: Next time on "AS THE GITHUB TURNS" We'll find out if Rayleen can ACTUALLY upload 
+ *             her  STINKING ASSIGNMENT!!
  * 
  * Behaviors Not Implemented and Why: trying to overload my array might break it, it's not
  *                                    a requirement of the assignment, which I usually don't
