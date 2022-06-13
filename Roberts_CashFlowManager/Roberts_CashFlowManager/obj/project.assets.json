@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mckid\\source\\repos\\Roberts_CashFlowManager\\Roberts_CashFlowManager\\Roberts_CashFlowManager.csproj",
+      "projectUniqueName": "C:\\Users\\mckid\\Source\\Repos\\Roberts_CashFlowManagerCopyNumber4732\\Roberts_CashFlowManager\\Roberts_CashFlowManager\\Roberts_CashFlowManager.csproj",
       "projectName": "Roberts_CashFlowManager",
-      "projectPath": "C:\\Users\\mckid\\source\\repos\\Roberts_CashFlowManager\\Roberts_CashFlowManager\\Roberts_CashFlowManager.csproj",
+      "projectPath": "C:\\Users\\mckid\\Source\\Repos\\Roberts_CashFlowManagerCopyNumber4732\\Roberts_CashFlowManager\\Roberts_CashFlowManager\\Roberts_CashFlowManager.csproj",
       "packagesPath": "C:\\Users\\mckid\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mckid\\source\\repos\\Roberts_CashFlowManager\\Roberts_CashFlowManager\\obj\\",
+      "outputPath": "C:\\Users\\mckid\\Source\\Repos\\Roberts_CashFlowManagerCopyNumber4732\\Roberts_CashFlowManager\\Roberts_CashFlowManager\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mckid\\AppData\\Roaming\\NuGet\\NuGet.Config",

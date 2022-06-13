@@ -9,11 +9,12 @@
  *         C: After writing this the 3rd time, I'm pretty cool with how all 
  *            these things talk to eachother, 3rd time I didn't have to peek during 
  *            build...and I made it better each time.  I like that I made a good use of 
- *            the ledger class and got rid of a LOT of lines of code in my main since I
- *            didn't know how to use the enum to figure it out. 
+ *            the ledger class and got rid of a LOT of lines of code by figuring out the 
+ *            use of the Enums for my totals...with help of course :D
  *            
  *         D: Something is wrong with GitHub....unlike before, it will not accept my changes
  *            I have had to open a new repository and pull the changed files !! :(
+ *            this is copy 4742 >:(
  * 
  * Behaviors Not Implemented and Why: trying to overload my array might break it, it's not
  *                                    a requirement of the assignment, which I usually don't
